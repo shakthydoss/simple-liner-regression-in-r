@@ -1,9 +1,9 @@
 # Author: shakthydoss
-# Webiste: shakthydoss.com 
+# Webiste: http://shakthydoss.com/
 #
 # A sample R program to analysis liner regression mode 
 # Dataset used in this progam contains age and bloodpressure of patients. We will try predict bloodpressure for a given age.
-# for details: shakthydoss.com/simple
+# for details: http://shakthydoss.com/prediction-using-simple-liner-regression-r-part-1/
 
 # remove unwated objects in the current workspace.
 rm(list =ls())

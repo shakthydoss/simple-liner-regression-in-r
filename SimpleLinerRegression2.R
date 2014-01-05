@@ -1,10 +1,10 @@
 # Author: shakthydoss
-# Webiste: shakthydoss.com 
+# Webiste: http://shakthydoss.com/
 
 # A sample R program to analysis liner regression model with multiple variables.
 # Dataset used in this progam contains age of a fish, temperature of water and length of the fish. We will try predict length of fish for a given age and temperature.
 
-# for details: shakthydoss.com/simple
+# for details: http://shakthydoss.com/prediction-using-simple-liner-regression-r-part-2/
 
 
 # remove unwated objects in the current workspace.
